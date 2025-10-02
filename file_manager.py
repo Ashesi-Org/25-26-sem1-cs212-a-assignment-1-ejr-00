@@ -94,8 +94,7 @@ def display_help():
     print("- File paths can be relative or absolute")
     print("- Use quotes around filenames with spaces")
     print("- The program uses only Python standard library")
-    print("=" * 40)
-
+    print("=" * 40) 
 
 def display_info():
     """Display program information."""
